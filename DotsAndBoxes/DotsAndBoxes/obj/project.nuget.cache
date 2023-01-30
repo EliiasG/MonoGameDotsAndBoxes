@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FPv6VUT+s9v3e059yozzR0AvtRk8oSTz1iV2/9Ps7lV9W6CySAnc1MMGqW1IXOFyiqe4rXR64kmEokofHQvCZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\C#\\DotsAndBoxes\\DotsAndBoxes\\DotsAndBoxes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egrun\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\egrun\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
